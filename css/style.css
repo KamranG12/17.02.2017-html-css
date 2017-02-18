@@ -1,0 +1,80 @@
+html,
+body {
+    margin: 0px;
+}
+
+.main{
+     width: 1170px;
+    margin: 0 auto;
+}
+.pull-left {
+    float: left;
+}
+
+.pull-right {
+    float: right;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.logo img {
+    width: 80px;
+    height: 40px;
+    padding: 50px;
+}
+
+.center h1{
+    color: white;
+}
+
+.head .menu {
+    color: white;
+    padding: 50px;
+}
+
+.center h3{
+  border-style: solid;
+  color: white;
+  padding: 8px;
+  margin-top: 0;
+}
+
+.center .btn{
+    padding: 10px;
+    margin: 0 25px;
+}
+
+.header .center {
+    padding: 188px 100px;
+}
+
+.main .header {
+    text-align: center;
+    background-image: url('../img/hero.jpg');
+    background-size: cover;
+    color: #3f4d4a;
+}
+
+.about .top h1{
+    margin-top: 0;
+
+}
+
+.about .top{
+    padding: 50 200;
+    margin: 50 200;
+}
+
+.bottom .left{
+    background-image: url('../img/features-intro.jpg');
+    background-size: cover;
+    width: 585px;
+    height: 300px;
+}
+
+.bottom .left img{
+   padding: 100px;
+   margin: 50 150;
+}
