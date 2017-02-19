@@ -78,3 +78,152 @@ body {
    padding: 100px;
    margin: 50 150;
 }
+
+.bottom .right{
+    width: 585px;
+    height: 300px;
+    background:steelblue;
+}
+
+.bottom .right p{
+    padding: 10px;
+    margin: 0 40;
+}
+
+.bottom .right h2{
+    margin-left: 45px;
+    padding-top: 30px;
+}
+
+.features {
+    width: 1170px;
+    padding: 30 0;
+}
+
+.features .left{
+    width: 390;
+}
+
+.features .left img{
+    padding: 60px 30px;
+    float: left;
+}
+
+.features .left p{
+    float: left;
+    padding: 20px 30px;
+}
+
+.features .center{
+    width: 390;
+}
+
+.features .center img{
+    padding: 60px 30px;
+    float: left;
+}
+
+.features .center p{
+    float: left;
+    padding: 20px 30px;
+}
+
+.features .right{
+    width: 390;
+}
+
+.features .right img{
+    padding: 60px 30px;
+    float: left;
+}
+
+.features .right p{
+    float: left;
+    padding: 20px 30px;
+}
+
+.content .screen {
+    width: 1170;
+    height: 560;
+    text-align: center;
+    background-image: url('../img/showcase-bg.jpg');
+    background-size: cover;
+    color: #3f4d4a;
+}
+
+.screen img{
+    margin-left: 50px;
+    padding: 0 50px;
+}
+
+.screen .right .word{
+    width: 595px;
+    padding: 30px;
+    color: white;
+}
+
+.screen .right .word h2{
+    margin-right: 110;
+    padding-right: 110;
+}
+
+.logoword{
+    float: left;
+    margin-left: -60;
+    width: 100;
+}
+
+.logoword .img{
+
+    width: 80;
+     float: left;
+}
+
+.screen .right .word1{
+    width: 400px;
+    margin-left: 100;
+    padding: 0 30px;
+    color: white;
+}
+
+.screen .right .download{
+  border-style: solid;
+  color: white;
+  padding: 12px 20px;
+  margin: 60;
+}
+
+.screen p{
+    text-align: left;
+}
+
+.content .download{
+    margin-top: 60px;
+}
+
+.content .download img{
+    margin: 0;
+    padding: 0;
+}
+
+.download .seen h3{
+  border-style: solid;
+  color: white;
+  padding: 12px 20px;
+  margin: 0 520;
+}
+
+.download .seen{
+    width: 1170px;
+    height: 300px;
+    background-color: steelblue;
+    margin-top: 0; 
+}
+
+.download .seen h1{
+    text-align: center;
+    margin: 0;
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+
